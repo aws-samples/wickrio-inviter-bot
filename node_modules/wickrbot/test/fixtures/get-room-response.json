@@ -1,0 +1,13 @@
+{
+    "description": "Room description",
+    "masters": [
+        { "name": "alice" }
+    ],
+    "members": [
+        { "name": "alice" },
+        { "name": "bob" }
+    ],
+    "title": "Room Title",
+    "ttl": "-1",
+    "vgroupid": "Sfakevgroupid"
+}
